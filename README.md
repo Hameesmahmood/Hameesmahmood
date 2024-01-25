@@ -1,6 +1,7 @@
+<img src="https://github.com/Hameesmahmood/Hameesmahmood/blob/main/github-header-image.png?raw=true" width="100%" />
 <h1 align="center">Hi 👋, I'm Hamees Mahmood</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+
 
 [![](https://visitcount.itsvg.in/api?id=Hameesmahmood&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
