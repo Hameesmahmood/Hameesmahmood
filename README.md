@@ -1,108 +1,36 @@
-<h1 align="center">Hi there, I'm Hamees Mahmood </h1>
+# Hamees Mahmood
 
-<p align="center">
-  <strong>Software Engineer • Full Stack Developer • Backend Enthusiast</strong>
-</p>
+Software engineer focused on backend reliability. I build workflows, APIs and document pipelines that keep working when things fail, mostly with .NET, Azure, Node.js and Python.
 
-<p align="center">
-Building scalable backend services and modern web applications with .NET, Node.js, React, and Next.js.
-</p>
+I'm currently building one small distributed systems or AI project a week, in public. Each one has a measured result you can reproduce.
 
----
+## Work
 
-## About Me
+**Software Engineer, SoftBuilds** (October 2025 to present)
 
-I'm a **Software Engineer** with **2+ years of professional experience** building scalable backend systems and modern full-stack applications.
+- Build healthcare order-processing services in ASP.NET Core and Azure, handling 50K+ orders.
+- Designed blob journaling and replay workflows to find the root cause of failed orders and recover faster.
+- Built Durable Functions that automate the order lifecycle in 5,000-order batches.
+- Built a PDF overlay engine that cut document prep from 5–20 minutes to instant.
 
-Currently, I'm working at **SoftBuilds**, where I develop enterprise healthcare solutions using **ASP.NET Core**, **React**, **Azure**, and modern cloud technologies. I enjoy designing clean APIs, solving backend challenges, and building software that is reliable, secure, and easy to maintain.
+**Full-Stack Engineer, Flippin Technologies** (June 2024 to July 2025)
 
----
+- Built a MERN e-commerce platform with Braintree payments, and an admin dashboard in Next.js and TypeScript.
 
-## 🛠 Tech Stack
+## Projects
 
-### Languages
+- **[Ajaia Docs](https://github.com/Hameesmahmood/ajaia-docs):** collaborative document editor with autosave and role-based sharing. Next.js, TypeScript, Drizzle. [Live demo](https://ajaia-docs-two-sigma.vercel.app)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts" />
-</p>
+New projects will be added here as they ship.
 
-### Frontend
+## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+**Languages:** C#, TypeScript, JavaScript, Python  
+**Backend:** ASP.NET Core, Node.js, Express, Flask, Azure Functions, Durable Functions  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Data:** SQL Server, MySQL, MongoDB  
+**Cloud and tools:** Azure, Bitbucket Pipelines, Git, Linux
 
-### Backend
+## Contact
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
-</p>
-
-### Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=minio,azure" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,postman,vscode,visualstudio" />
-</p>
-
----
-
-## Experience
-
-### **Software Engineer** — SoftBuilds
-
-**October 2025 – Present**
-
-- Developed scalable backend services using **ASP.NET Core**
-- Built enterprise applications with **React**, **TypeScript**, and modern frontend practices
-- Designed secure REST APIs and backend workflows
-- Worked extensively with **Azure**, **Blob Storage**, and cloud-based deployments
-- Built reusable internal libraries and backend utilities
-- Maintained CI/CD pipelines and production deployments
-
----
-
-## Current Focus
-
-- Backend Engineering
-- Full Stack Development
-- AI & Intelligent Systems
-
----
-
-## Featured Project
-
-### **TheraLearn**
-
-A gamified learning platform designed for children with Down syndrome, featuring interactive educational games, progress tracking, speech synthesis, and an engaging learning experience.
-
-**Tech Stack**
-
-`MongoDB` • `Express.js` • `React` • `Node.js` • `Tailwind CSS` • `ShadCN UI`
-
----
-
-## Connect
-
-- **Email:** **hameesmahmood99@gmail.com**
-- **LinkedIn:** https://www.linkedin.com/in/hamees-mahmood-54b2102b1
-
----
-
-## Beyond Code
-
-When I'm away from the keyboard, you'll probably find me:
-
-- 🏋️ Working out
-- 🎮 Playing games
-- 🌲 Exploring nature trails
-- ♟️ Playing chess
+[hameesmahmood99@gmail.com](mailto:hameesmahmood99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamees-mahmood-54b2102b1)
