@@ -21,7 +21,7 @@ I'm currently building one small distributed systems or AI project a week, in pu
 
 - **[Ajaia Docs](https://github.com/Hameesmahmood/ajaia-docs):** collaborative document editor with autosave and role-based sharing. Next.js, TypeScript, Drizzle. [Live demo](https://ajaia-docs-two-sigma.vercel.app)
 
-- **Games for [TheraLearn](https://thera-learn.vercel.app):** learning games for children with Down syndrome: [Sketch Book](https://github.com/Hameesmahmood/Sketch_Book), [Endless Runner](https://github.com/Hameesmahmood/endless_runner) and [Spelling Bee](https://github.com/Hameesmahmood/Spelling-Bee-Game).
+- **Games for [TheraLearn](https://thera-learn.vercel.app):** learning games for children with Down syndrome: [Endless Runner](https://github.com/Hameesmahmood/endless_runner) and [Spelling Bee](https://github.com/Hameesmahmood/Spelling-Bee-Game).
 
 New projects will be added here as they ship.
 
