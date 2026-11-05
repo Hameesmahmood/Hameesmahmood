@@ -19,20 +19,23 @@ I'm currently building one small distributed systems or AI project a week, in pu
 
 ## Projects
 
+<!-- Uncomment when webhook-inbox ships, and fill in the numbers from the real load run. Keep this entry first.
+- **[Webhook Inbox](https://github.com/Hameesmahmood/webhook-inbox):** self-hosted inbox that stores every webhook first, then delivers it with retries and replay. C#, ASP.NET Core, Postgres, Docker.
+  - **Result:** LOST lost and DUPLICATES duplicates across EVENTS events while the worker was killed KILLS times.
+  - **What broke:** ONE SENTENCE ON WHAT FAILED DURING TESTING AND HOW IT WAS FIXED.
+
+CHART IMAGE HERE
+-->
+
 - **[Ajaia Docs](https://github.com/Hameesmahmood/ajaia-docs):** collaborative document editor with autosave and role-based sharing. Next.js, TypeScript, Drizzle. [Live demo](https://ajaia-docs-two-sigma.vercel.app)
 
 - **Games for [TheraLearn](https://thera-learn.vercel.app):** learning games for children with Down syndrome: [Endless Runner](https://github.com/Hameesmahmood/endless_runner) and [Spelling Bee](https://github.com/Hameesmahmood/Spelling-Bee-Game).
 
-New projects will be added here as they ship.
-
 ## Stack
 
-**Languages:** C#, TypeScript, JavaScript, Python  
-**Backend:** ASP.NET Core, Node.js, Express, Flask, Azure Functions, Durable Functions  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Data:** SQL Server, MySQL, MongoDB  
-**Cloud and tools:** Azure, Bitbucket Pipelines, Git, Linux
+**Backend:** C#, ASP.NET Core, Azure Functions, Durable Functions, Node.js, Express, Python, Flask, SQL Server, MySQL, MongoDB  
+**Also:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Azure, Bitbucket Pipelines, Git, Linux
 
 ## Contact
 
-[hameesmahmood99@gmail.com](mailto:hameesmahmood99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamees-mahmood-54b2102b1)
+[Portfolio](https://hameesmahmood.github.io) · [hameesmahmood99@gmail.com](mailto:hameesmahmood99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamees-mahmood-54b2102b1)
